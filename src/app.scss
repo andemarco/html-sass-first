@@ -1,0 +1,13 @@
+$color_red: red;
+$color_blue: blue;
+
+h1,
+h2 {
+color: $color_red;
+}
+h3 {
+  color: $color_blue;
+}
+p {
+color: green;
+}
